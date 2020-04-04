@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e6eea03-f099-4170-943b-b98eadd7837d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4e6eea03-f099-4170-943b-b98eadd7837d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,8 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -65,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_1/TestGenerictiy_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="357">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -107,186 +104,6 @@
               <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="generictiy_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="generictiy_1" type="462c0819:PsiDirectoryNode" />
-              <item name="Hero" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="generictiy_1" type="462c0819:PsiDirectoryNode" />
-              <item name="TestGenerictiy_1" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="generictiy_1" type="462c0819:PsiDirectoryNode" />
-              <item name="TestGenerictiy_2" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="generictiy_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="generictiy_3" type="462c0819:PsiDirectoryNode" />
-              <item name="APHero" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="generictiy_3" type="462c0819:PsiDirectoryNode" />
-              <item name="Hero" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="generictiy_3" type="462c0819:PsiDirectoryNode" />
-              <item name="TestGenecirtiy_1" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="generictiy_3" type="462c0819:PsiDirectoryNode" />
-              <item name="TestGenecirtiy_2" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="generictiy_3" type="462c0819:PsiDirectoryNode" />
-              <item name="TestGenecirtiy_3" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="generictiy_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="generictiy_4" type="462c0819:PsiDirectoryNode" />
-              <item name="Test_1" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="ADHero" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="APHero" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="Hero" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="Test_1" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="Test_2" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="genericity" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="Test_3" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
@@ -333,7 +150,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585489212577</updated>
       <workItem from="1585489215499" duration="1133000" />
-      <workItem from="1585997553940" duration="241000" />
+      <workItem from="1585997553940" duration="536000" />
     </task>
     <task id="LOCAL-00001" summary="JavaSE基础">
       <created>1585489518880</created>
@@ -356,16 +173,23 @@
       <option name="project" value="LOCAL" />
       <updated>1585997600552</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="JavaSE基础">
+      <created>1585997903860</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585997903860</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1374000" />
+    <option name="totallyTimeSpent" value="1669000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.122732125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.122732125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -380,7 +204,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32985386" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32985386" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -398,6 +222,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JavaSE基础" />
@@ -440,8 +274,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_1/TestGenerictiy_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="357">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
