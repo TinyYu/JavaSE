@@ -1,4 +1,4 @@
-package java_MiddleRank.thread.thread_3;
+package java_MiddleRank.thread.thread_4;
 
 public class Hero {
     private String name;
