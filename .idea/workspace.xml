@@ -6,23 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0d5a2c0-216c-4aea-bc59-f33d21c38413" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Test_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Test_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Test_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_5/Test_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_6/TestThread_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_6/TestThread_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_7/TestThread_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_7/TestThread_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_7/TestThread_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/test/test_6/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/test/test_6/Test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/test/test_1/Test1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/test/test_1/Test1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_3/TestThread_2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_3/TestThread_2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_3/TestThread_2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_3/TestThread_2$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_6/TestThread_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_6/TestThread_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_8/TestThread_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_8/TestThread_1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,61 +34,23 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Test_3.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="357">
-                  <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-                  <folding>
-                    <element signature="e#430#641#0" expanded="true" />
-                    <element signature="e#640#641#0" expanded="true" />
-                    <element signature="e#779#954#0" expanded="true" />
-                    <element signature="e#953#954#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Stack.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="672">
-                  <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_4/Test_3.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="231">
-                  <caret line="11" column="43" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="11" selection-end-column="43" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_4/Stack.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="441">
-                  <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_8/TestThread_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1134">
+              <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+              <folding>
+                <element signature="e#412#518#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#961#1109#0" expanded="true" />
+                <element signature="e#1108#1109#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -129,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/list/generic/APHero.java" />
         <option value="$PROJECT_DIR$/src/java_MiddleRank/list/generic/TestCollection.java" />
         <option value="$PROJECT_DIR$/src/java_MiddleRank/list/hashmap/Hero.java" />
         <option value="$PROJECT_DIR$/src/java_MiddleRank/list/hashmap/TestCollection2.java" />
@@ -180,11 +126,12 @@
         <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Test_2.java" />
         <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Test_3.java" />
         <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Stack.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_8/TestThread_1.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-156" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
@@ -201,6 +148,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,45 +174,10 @@
               <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
               <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="test_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="Test_6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="thread_7" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,13 +228,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test_3 (1)">
-    <configuration name="TestThread_3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.thread.thread_7.TestThread_3" />
+  <component name="RunManager" selected="Application.TestThread_1">
+    <configuration name="TestThread_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.thread.thread_8.TestThread_1" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_MiddleRank.thread.thread_7.*" />
+          <option name="PATTERN" value="java_MiddleRank.thread.thread_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -383,11 +296,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestThread_1" />
         <item itemvalue="Application.Test_3 (1)" />
         <item itemvalue="Application.Test_3 (2)" />
         <item itemvalue="Application.Test_3" />
         <item itemvalue="Application.Test_2" />
-        <item itemvalue="Application.TestThread_3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -427,6 +340,7 @@
       <workItem from="1585145385972" duration="1143000" />
       <workItem from="1585487588236" duration="2210000" />
       <workItem from="1585972002574" duration="11826000" />
+      <workItem from="1586691961063" duration="1017000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1585488392740</created>
@@ -453,13 +367,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120936000" />
+    <option name="totallyTimeSpent" value="122630000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12753469" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12860192" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -541,13 +455,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/list/node/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-420">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/list/test/test_4/Node1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -893,9 +800,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Hero.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Hero.java" />
     <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_3/Test_3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1197">
@@ -927,6 +832,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Test_3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -940,12 +855,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Stack.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_8/TestThread_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+        <state relative-caret-position="1134">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#412#518#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#961#1109#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
           </folding>
         </state>
       </provider>
