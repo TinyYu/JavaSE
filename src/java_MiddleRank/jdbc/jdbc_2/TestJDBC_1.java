@@ -18,14 +18,14 @@ public class TestJDBC_1 {
         Connection c = null;
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            c = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/库?characterEncoding=UTF-8","root","密码");
+            c = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/test_jdbc?characterEncoding=UTF-8","admin","1999");
             s = c.createStatement();
             //增
-            String sql_create = "insert into 表 values()";
+            String sql_create = "insert into hero values(null ,'hero2',500,60)";
             //删
-            String sql_delete = "delete from 表 where 条件";
+            String sql_delete = "delete from hero where hp = 616";
             //改
-            String sql_update = "update 表 set 列 = '值' where 条件";
+            String sql_update = "update hero set damage = 61 where name = 'hero2'";
             s.execute(sql_create);
             s.execute(sql_delete);
             s.execute(sql_update);

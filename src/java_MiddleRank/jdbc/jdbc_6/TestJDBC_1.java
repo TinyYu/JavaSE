@@ -14,8 +14,8 @@ public class TestJDBC_1 {
         try {
             Class.forName("com.mysql.jdbc.Driver");
             c = DriverManager
-                    .getConnection("jdbc:mysql://127.0.0.1:3306/how2java?characterEncoding=UTF-8","root","密码");
-            String sql = "insert into 表 values(?,?,?)";
+                    .getConnection("jdbc:mysql://127.0.0.1:3306/test_jdbc?characterEncoding=UTF-8","admin","1999");
+            String sql = "insert into hero values(null,?,?,?)";
 
             //Statement.RETURN_GENERATED_KEYS参数，以确保会返回自增长ID
             ps = c.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS);

@@ -1,29 +1,30 @@
-package java_MiddleRank.jdbc.jdbc_5;
+package java_MiddleRank.jdbc.test.test_5;
 
 import java.sql.*;
 
-/**
- * execute与executeUpdate的相同点
- **/
-public class TestJDBC_1 {
+public class Test1 {
     public static void main(String[] args) {
+        list(10,5);
+    }
+
+    public static void list(int start,int count){
         Statement s = null;
         Connection c = null;
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            c = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/test_jdbc?characterEncoding=UTF-8", "admin", "1999");
+            c = DriverManager
+                    .getConnection("jdbc:mysql://127.0.0.1:3306/test_jdbc?characterEncoding=UTF-8","admin","1999");
             s = c.createStatement();
-            String sqlInsert = "insert into hero values(null,'hero3',509,70)";
-            String sqlDelete = "delete from hero where name = 'hero2'";
-            String sqlUpdate = "update hero set hp=519 where name = 'hero1'";
-
-            //都可以执行增删改
-            s.execute(sqlInsert);
-            s.execute(sqlUpdate);
-            s.execute(sqlDelete);
-            s.executeUpdate(sqlInsert);
-            s.executeUpdate(sqlUpdate);
-            s.executeUpdate(sqlDelete);
+            String sql = String.format("select * from hero limit %d,%d",start,count);
+            s.execute(sql);
+            ResultSet rs = s.getResultSet();
+            while (rs.next()){
+                int id = rs.getInt(1);
+                String name = rs.getString(2);
+                float hp = rs.getFloat(3);
+                int damage = rs.getInt(4);
+                System.out.println(id + "\t" + name + "\t" + hp + "\t" + damage);
+            }
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         } catch (SQLException e) {

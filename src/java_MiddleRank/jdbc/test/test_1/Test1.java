@@ -1,29 +1,29 @@
-package java_MiddleRank.jdbc.jdbc_5;
+package java_MiddleRank.jdbc.test.test_1;
 
-import java.sql.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
 
 /**
- * execute与executeUpdate的相同点
+ * 向数据库中插入100条数据
  **/
-public class TestJDBC_1 {
+public class Test1 {
     public static void main(String[] args) {
         Statement s = null;
         Connection c = null;
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            c = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/test_jdbc?characterEncoding=UTF-8", "admin", "1999");
+            c = DriverManager
+                    .getConnection("jdbc:mysql://127.0.0.1:3306/test_jdbc?characterEncoding=UTF-8","admin","1999");
             s = c.createStatement();
-            String sqlInsert = "insert into hero values(null,'hero3',509,70)";
-            String sqlDelete = "delete from hero where name = 'hero2'";
-            String sqlUpdate = "update hero set hp=519 where name = 'hero1'";
-
-            //都可以执行增删改
-            s.execute(sqlInsert);
-            s.execute(sqlUpdate);
-            s.execute(sqlDelete);
-            s.executeUpdate(sqlInsert);
-            s.executeUpdate(sqlUpdate);
-            s.executeUpdate(sqlDelete);
+            for (int i = 1;i <= 100;i++){
+                String name = "hero" + i;
+                float hp = i * 100;
+                int damage = i * 50;
+                String sql = String.format("insert into hero values(null,'%s','%f','%d')",name,hp,damage);
+                s.execute(sql);
+            }
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         } catch (SQLException e) {

@@ -18,7 +18,7 @@ public class TestJDBC_2 {
     public static void main(String[] args) throws Exception{
         Class.forName("com.mysql.jdbc.Driver");
         Connection c = DriverManager
-                .getConnection("jdbc:mysql://127.0.0.1:3306/how2java?characterEncoding=UTF-8","root","密码");
+                .getConnection("jdbc:mysql://127.0.0.1:3306/test_jdbc?characterEncoding=UTF-8","admin","1999");
 
         DatabaseMetaData dbmd = c.getMetaData();
 

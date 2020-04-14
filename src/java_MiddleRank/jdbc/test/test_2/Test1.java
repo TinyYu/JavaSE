@@ -1,29 +1,29 @@
-package java_MiddleRank.jdbc.jdbc_5;
+package java_MiddleRank.jdbc.test.test_2;
 
-import java.sql.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
 
-/**
- * execute与executeUpdate的相同点
- **/
-public class TestJDBC_1 {
+public class Test1 {
     public static void main(String[] args) {
+        String sqlinsert = "insert into hero values(null,'hero1',300,2)";
+        String sqlupdate = "update hero set damage = 3 where name = 'hero1'";
+        String sqldelete = "delete from hero where name = 'hero50'";
+        execute(sqldelete);
+        execute(sqlinsert);
+        execute(sqlupdate);
+    }
+
+    public static void execute(String sql){
         Statement s = null;
         Connection c = null;
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            c = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/test_jdbc?characterEncoding=UTF-8", "admin", "1999");
+            c = DriverManager
+                    .getConnection("jdbc:mysql://127.0.0.1:3306/test_jdbc?characterEncoding=UTF-8","admin","1999");
             s = c.createStatement();
-            String sqlInsert = "insert into hero values(null,'hero3',509,70)";
-            String sqlDelete = "delete from hero where name = 'hero2'";
-            String sqlUpdate = "update hero set hp=519 where name = 'hero1'";
-
-            //都可以执行增删改
-            s.execute(sqlInsert);
-            s.execute(sqlUpdate);
-            s.execute(sqlDelete);
-            s.executeUpdate(sqlInsert);
-            s.executeUpdate(sqlUpdate);
-            s.executeUpdate(sqlDelete);
+            s.execute(sql);
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         } catch (SQLException e) {

@@ -11,9 +11,9 @@ public class TestJDBC_1 {
         Connection c = null;
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            c = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/库?characterEncoding=UTF-8", "root", "密码");
+            c = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/test_jdbc?characterEncoding=UTF-8", "admin", "1999");
             s = c.createStatement();
-            String sql = "select * from 表";
+            String sql = "select * from hero";
             //执行查询语句，并返回结果集给ResultSet
             ResultSet rs = s.executeQuery(sql);
             while (rs.next()){

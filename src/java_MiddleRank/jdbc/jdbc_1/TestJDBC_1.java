@@ -33,7 +33,7 @@ public class TestJDBC_1 {
              * 密码
              */
             c = DriverManager
-                    .getConnection("jdbc:mysql://127.0.0.1:3306/库?characterEncoding=UTF-8","root","密码");
+                    .getConnection("jdbc:mysql://127.0.0.1:3306/test_jdbc?characterEncoding=UTF-8","admin","1999");
 
             /**
              * Statement是用于执行SQL语句的
@@ -44,7 +44,7 @@ public class TestJDBC_1 {
             /**
              * sql语句
              */
-            String sql = "insert into hero values()";
+            String sql = "insert into hero values(null,'hero',616.3,50)";
             s.execute(sql);
         } catch (ClassNotFoundException e) {
             e.printStackTrace();

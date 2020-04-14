@@ -11,11 +11,11 @@ public class TestJDBC_2 {
         Connection c = null;
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            c = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/库?characterEncoding=UTF-8", "root", "密码");
+            c = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/test_jdbc?characterEncoding=UTF-8", "admin", "1999");
             s = c.createStatement();
             String name = "admin";
-            String password = "1";
-            String sql = "select * from 表 where " +
+            String password = "admin";
+            String sql = "select * from user where " +
                     "name = '"+ name +"' and password = '" + password +"'";
             //执行查询语句，并返回结果集给ResultSet
             ResultSet rs = s.executeQuery(sql);

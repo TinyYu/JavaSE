@@ -18,9 +18,9 @@ public class TestJDBC_2 {
         Connection c = null;
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            c = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/库?characterEncoding=UTF-8", "root", "密码");
+            c = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/test_jdbc?characterEncoding=UTF-8", "admin", "1999");
             s = c.createStatement();
-            String sql = "select * from 表";
+            String sql = "select * from hero";
 
             //execute可以执行查询语句，通过getResultSet,取出结果集
             s.execute(sql);
@@ -30,13 +30,13 @@ public class TestJDBC_2 {
             }
 
             //executeUpdate不能执行查询语句
-            s.executeUpdate(sql);
+            //s.executeUpdate(sql);
 
             //execute返回boolean类型,true表示查询语句，false表示增删改
             boolean b = s.execute(sql);
             System.out.println(b);
             //executeUpdate返回int，表示有多少条数据受到影响
-            String sqlUpdate = "update 表 set 列=值 where 条件";
+            String sqlUpdate = "update hero set hp=589 where name = 'hero3'";
             int number = s.executeUpdate(sqlUpdate);
             System.out.println(number);
         } catch (ClassNotFoundException e) {
