@@ -1,7 +1,4 @@
 package java_MiddleRank.jdbc.jdbc_9;
-
-import java_MiddleRank.jdbc.test.test_8.Hero;
-
 import java.util.List;
 
 public interface HeroDAO {
