@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e6eea03-f099-4170-943b-b98eadd7837d" name="Default Changelist" comment="JavaSE基础">
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_10/ConnectionPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_10/TestJDBC_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_9/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_9/ConnectionPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_9/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_1/TestGUI_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_3/TestGUI_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_4/TestGUI_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_1/Test_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_2/Test_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_2/Test_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_3/Test_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_9/HeroDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_9/HeroDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_9/TestJDBC_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_9/TestJDBC_1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,38 +26,45 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_9/Test1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="84" column="5" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#964#1106#0" expanded="true" />
-                <element signature="e#1105#1106#0" expanded="true" />
-                <element signature="e#2396#2564#0" expanded="true" />
-                <element signature="e#2563#2564#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_9/ConnectionPool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="33" column="16" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="33" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_4/TestGUI_1.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="400">
+                  <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_1.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="576">
+                  <caret line="36" column="57" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="57" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#853#854#0" expanded="true" />
+                    <element signature="e#904#905#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -64,19 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_3/Hero.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_3/Test_3.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_4/TestThread_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_5/Herp.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_5/Hero.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_5/TestThread_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_5/Hero_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_5/TestThread_2.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_4/Test_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_4/Hero.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_4/Test_2.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_4/Test_4.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_4/Test_3.java" />
         <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_4/Stack.java" />
         <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_6/TestThread_1.java" />
         <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_6/ThreadPool.java" />
@@ -115,11 +113,25 @@
         <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_10/TestJDBC_1.java" />
         <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_9/ConnectionPool.java" />
         <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_9/Test1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_1/TestGUI_1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_1/Test_1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TetsGUI_1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_2.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_3.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_4.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_2/Test_3.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_2/Test_2.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_2/Test_1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_3/TestGUI_1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_3/Test_1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_4/TestGUI_1.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="641" />
+    <option name="y" value="-17" />
     <option name="width" value="974" />
     <option name="height" value="1087" />
   </component>
@@ -129,6 +141,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,63 +176,27 @@
               <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc_10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="test_9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586943628593" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587032047158" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-5.0.8-bin.jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -249,13 +237,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test1 (2)">
-    <configuration name="Test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.jdbc.test.test_8.Test1" />
+  <component name="RunManager" selected="Application.TestGUI_2">
+    <configuration name="TestGUI_1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.gui.gui_4.TestGUI_1" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_MiddleRank.jdbc.test.test_8.*" />
+          <option name="PATTERN" value="java_MiddleRank.gui.gui_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,12 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.jdbc.test.test_9.Test1" />
+    <configuration name="TestGUI_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.gui.gui_3.TestGUI_1" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_MiddleRank.jdbc.test.test_9.*" />
+          <option name="PATTERN" value="java_MiddleRank.gui.gui_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,12 +264,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestJDBC_1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.jdbc.jdbc_8.TestJDBC_1" />
+    <configuration name="TestGUI_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.gui.gui_4.TestGUI_2" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_MiddleRank.jdbc.jdbc_8.*" />
+          <option name="PATTERN" value="java_MiddleRank.gui.gui_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,12 +277,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestJDBC_1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.jdbc.jdbc_9.TestJDBC_1" />
+    <configuration name="Test_1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.gui.test.test_3.Test_1" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_MiddleRank.jdbc.jdbc_9.*" />
+          <option name="PATTERN" value="java_MiddleRank.gui.test.test_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,12 +290,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestJDBC_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.jdbc.jdbc_10.TestJDBC_1" />
+    <configuration name="Test_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.gui.test.test_2.Test_1" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_MiddleRank.jdbc.jdbc_10.*" />
+          <option name="PATTERN" value="java_MiddleRank.gui.test.test_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,11 +305,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test1 (2)" />
-        <item itemvalue="Application.TestJDBC_1" />
-        <item itemvalue="Application.TestJDBC_1 (2)" />
-        <item itemvalue="Application.Test1 (1)" />
-        <item itemvalue="Application.TestJDBC_1 (1)" />
+        <item itemvalue="Application.TestGUI_2" />
+        <item itemvalue="Application.TestGUI_1 (1)" />
+        <item itemvalue="Application.Test_1 (1)" />
+        <item itemvalue="Application.TestGUI_1" />
+        <item itemvalue="Application.Test_1" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +334,8 @@
       <workItem from="1586417004804" duration="10183000" />
       <workItem from="1586485804430" duration="12591000" />
       <workItem from="1586844438410" duration="15462000" />
-      <workItem from="1586935517092" duration="7891000" />
+      <workItem from="1586935517092" duration="9161000" />
+      <workItem from="1587018814699" duration="12485000" />
     </task>
     <task id="LOCAL-00001" summary="JavaSE基础">
       <created>1585489518880</created>
@@ -387,13 +376,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79187000" />
+    <option name="totallyTimeSpent" value="92942000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1087" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.30709535" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2414163" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -404,7 +392,7 @@
       <window_info id="Job Explorer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32985386" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1944146" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19361702" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39957035" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -446,79 +434,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="JavaSE基础" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_4/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_4/Test_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
-          <folding>
-            <element signature="e#411#572#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#803#964#0" expanded="true" />
-            <element signature="e#963#964#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_4/Test_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_6/TestThread_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_91/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_6/ThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2304" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Test_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Test_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_1/TestJDBC_2.java" />
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_1/TestJDBC_3.java" />
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_4/TesyJDBC_2.java" />
     <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_6/TestJDBC_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -838,21 +753,129 @@
     <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_9/ConnectionPool.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
-          <caret line="33" column="16" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="33" selection-end-column="16" />
+          <caret line="33" column="16" selection-start-line="31" selection-start-column="31" selection-end-line="33" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_9/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="84" column="5" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+        <state relative-caret-position="786">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#964#1106#0" expanded="true" />
-            <element signature="e#1105#1106#0" expanded="true" />
-            <element signature="e#2396#2564#0" expanded="true" />
-            <element signature="e#2563#2564#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_1/TestGUI_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_1/Test_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#326#674#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="24" column="88" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_91/src.zip!/java/awt/event/MouseAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_2/Test_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="65" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_2/Test_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="36" column="57" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#904#905#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_3/TestGUI_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="36" column="57" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_3/Test_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_4/TestGUI_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
         </state>
       </provider>
     </entry>
