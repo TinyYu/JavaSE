@@ -1,22 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/java_basics/three_control_flow/test/Test_8.java" line="19" />
+    <bookmark url="file://$PROJECT_DIR$/src/java_basics/five_Class_and_objects/class_methods/Class_methods.java" line="17" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e6eea03-f099-4170-943b-b98eadd7837d" name="Default Changelist" comment="JavaSE基础">
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_4/TestGUI_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_4/TestGUI_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_4/TestGUI_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_4/Test_1.java" afterDir="false" />
+    <list default="true" id="c0d5a2c0-216c-4aea-bc59-f33d21c38413" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_6/TestGUI_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_6/TestGUI_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_6/TestGUI_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_6/TestGUI_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/exception/try_catch/TestException3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/exception/try_catch/TestException3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/gui/test/test_1/Test_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/gui/test/test_1/Test_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/caching_stream/TestStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/caching_stream/TestStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/caching_stream/TestStream2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/caching_stream/TestStream2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/caching_stream/TestStream3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/caching_stream/TestStream3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/char_stream/TestStream1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/char_stream/TestStream1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/char_stream/TestStream2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/char_stream/TestStream2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/chinese_stream/TestStream2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/chinese_stream/TestStream2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/close_stream/TestStream2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/close_stream/TestStream2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/system_in/TestStream1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/system_in/TestStream1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/test/test_3/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/test/test_3/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/test/test_5/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/test/test_5/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/test/test_6/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/io/test/test_6/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_1/TestJDBC_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_1/TestJDBC_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_2/TestJDBC_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_2/TestJDBC_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_3/TestJDBC_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_3/TestJDBC_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_3/TestJDBC_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_3/TestJDBC_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_3/TestJDBC_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_3/TestJDBC_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_4/TestJDBC_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_4/TestJDBC_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_5/TestJDBC_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_5/TestJDBC_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_5/TestJDBC_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_5/TestJDBC_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_9/TestJDBC_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/jdbc_9/TestJDBC_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_1/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_1/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_2/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_2/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_3/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_3/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_4/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_4/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_5/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_5/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_7/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_7/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_8/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_8/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_9/Test1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_9/Test1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_9/Test1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_9/Test1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_9/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/jdbc/test/test_9/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/list/test/test_10/MyHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/list/test/test_10/MyHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/test/Test_6/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/test/Test_6/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/test/Test_6/Test_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/test/Test_6/Test_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/test/Test_6/Test_2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/test/Test_6/Test_2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/test/Test_6/Test_2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/test/Test_6/Test_2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/test/test_1/Test1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/test/test_1/Test1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_3/TestThread_2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_3/TestThread_2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_3/TestThread_2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_3/TestThread_2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_7/TestThread_1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_7/TestThread_1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_7/TestThread_1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_7/TestThread_1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_7/TestThread_2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_7/TestThread_2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_7/TestThread_2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_7/TestThread_2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_7/TestThread_3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_7/TestThread_3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_7/TestThread_3$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_MiddleRank/thread/thread_7/TestThread_3$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/java_basics/three_control_flow/test/Test_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/java_basics/three_control_flow/test/Test_10.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,148 +67,166 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_10.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#476#477#0" expanded="true" />
-                    <element signature="e#515#516#0" expanded="true" />
-                    <element signature="e#588#589#0" expanded="true" />
-                    <element signature="e#631#632#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_3.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="304">
-                  <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_5.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="144">
-                  <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="14" selection-end-column="57" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_6/TestGUI_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="819">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_6/TestGUI_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_6/TestGUI_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_6/TestGUI_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
-        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\exploit\Trchnology\Java\src\operator\Arithmetic_operator</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_2/TestJDBC_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_1/TestJDBC_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_1/Test1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_2/Test1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_3/Test1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_4/Test1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_5/Test1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_7/TestJDBC_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_7/TestJDBC_2.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_6/Test1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_7/Test1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_8/TestJDBC_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_8/Hero.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_8/Hero.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_8/Test1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_9/Hero.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_9/HeroDAO.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_9/TestJDBC_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_10/ConnectionPool.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_10/TestJDBC_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_9/ConnectionPool.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_9/Test1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_1/TestGUI_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_1/Test_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TetsGUI_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_2.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_3.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_4.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_2/Test_3.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_2/Test_2.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_2/Test_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_3/TestGUI_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_3/Test_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_4/TestGUI_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_4/TestGUI_2.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_4/TestGUI_3.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_4/TestGUI_4.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_4/TestGUI_5.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_4/test_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_4/Test_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_1.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_2.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_3.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_4.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_5.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_6.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_7.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_8.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_9.java" />
-        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_10.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/list/linkedlist/TestLinked.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/list/linkedlist/TestLinked2.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/list/listfor/Hero.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/list/listfor/Test_Listfor.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/list/test/test_2/Hero.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/list/test/test_2/Test1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/list/test/test_3/Hero.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/list/test/test_3/Test1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/list/comparator/Hero.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/io/test/test_1/Test1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/Hero.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/ADHero.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/APHero.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/TestGenerictiy_1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/TestGenerictiy_2.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/test/Test_1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_2/Item.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_2/Hero.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_2/ItemStack.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_2/HeroStack.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_2/MyStack.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_3/APHero.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_3/TestGenecirtiy_1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_3/TestGenecirtiy_2.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_3/TestGenecirtiy_3.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/test/Hero.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/test/ADHero.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/test/APHero.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/test/Test_3.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/test/Test_2.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/test/Test_4.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_4/APHero.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_4/Test_1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_4/ADHero.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_6/TestThread_2.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_6/TestThread_3.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_5/Test_1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_7/TestThread_1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_7/TestThread_2.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Test_1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_3/Test_3.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_7/TestThread_3.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Hero.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Test_2.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Test_3.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Stack.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/thread/thread_8/TestThread_1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_6/TestGUI_1.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_6/TestGUI_2.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_6/TestGUI_3.java" />
+        <option value="$PROJECT_DIR$/src/java_MiddleRank/gui/gui_6/TestGUI_4.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="641" />
-    <option name="y" value="-17" />
-    <option name="width" value="974" />
-    <option name="height" value="1087" />
+    <option name="x" value="-1661" />
+    <option name="y" value="-11" />
+    <option name="width" value="1936" />
+    <option name="height" value="1042" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="true" />
+      <showExcludedFiles Scope="true" ProjectPane="true" />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,15 +258,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
               <item name="gui" type="462c0819:PsiDirectoryNode" />
-              <item name="gui_5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_MiddleRank" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="gui_6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -215,11 +267,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver&#10;mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587116263270" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-5.0.8-bin.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -228,23 +280,26 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="java_MiddleRank.jdbc.test.test_9" />
-      <recent name="java_MiddleRank.jdbc.jdbc_9" />
-      <recent name="java_MiddleRank.jdbc.test.test_8" />
-      <recent name="java_MiddleRank.thread.test.test_3" />
-      <recent name="java_MiddleRank.thread.thread_4" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\java\JavaSE\lib" />
-      <recent name="F:\exploit\Trchnology\JavaSE\src\java_MiddleRank" />
-      <recent name="F:\exploit\Trchnology\JavaSE\src" />
+      <recent name="F:\exploit\Trchnology\Java\src\java_MiddleRank\genericity\test" />
+      <recent name="F:\exploit\Trchnology\Java\src\java_MiddleRank\genericity\generictiy_3" />
+      <recent name="F:\exploit\Trchnology\Java\src\java_MiddleRank" />
+      <recent name="F:\exploit\Trchnology\Java\src\date" />
+      <recent name="F:\exploit\Trchnology\Java\src\numbers_and_strings\printf" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java_MiddleRank.thread.test.Test_6" />
+      <recent name="java_MiddleRank.list.test.test_3" />
+      <recent name="java_MiddleRank.list.test.test_2" />
+      <recent name="java_MiddleRank.list.listfor" />
+      <recent name="six_interface_and_inheritance" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="numbers_and_strings.test.test_test_7" />
+      <recent name="six_interface_and_inheritance.polymorphism" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -259,13 +314,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestGUI_10">
-    <configuration name="TestGUI_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.gui.gui_5.TestGUI_10" />
+  <component name="RunManager" selected="Application.TestGUI_3">
+    <configuration name="TestGUI_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.gui.gui_6.TestGUI_1" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_MiddleRank.gui.gui_5.*" />
+          <option name="PATTERN" value="java_MiddleRank.gui.gui_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,12 +328,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGUI_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.gui.gui_5.TestGUI_6" />
+    <configuration name="TestGUI_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.gui.gui_6.TestGUI_2" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_MiddleRank.gui.gui_5.*" />
+          <option name="PATTERN" value="java_MiddleRank.gui.gui_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,12 +341,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGUI_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.gui.gui_5.TestGUI_7" />
+    <configuration name="TestGUI_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.gui.gui_6.TestGUI_3" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_MiddleRank.gui.gui_5.*" />
+          <option name="PATTERN" value="java_MiddleRank.gui.gui_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,12 +354,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGUI_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.gui.gui_5.TestGUI_8" />
+    <configuration name="TestThread_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.thread.thread_8.TestThread_1" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_MiddleRank.gui.gui_5.*" />
+          <option name="PATTERN" value="java_MiddleRank.thread.thread_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,12 +367,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGUI_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.gui.gui_5.TestGUI_9" />
+    <configuration name="Test_3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_MiddleRank.thread.test.Test_6.Test_3" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_MiddleRank.gui.gui_5.*" />
+          <option name="PATTERN" value="java_MiddleRank.thread.test.Test_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,11 +382,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestGUI_10" />
-        <item itemvalue="Application.TestGUI_9" />
-        <item itemvalue="Application.TestGUI_8" />
-        <item itemvalue="Application.TestGUI_7" />
-        <item itemvalue="Application.TestGUI_6" />
+        <item itemvalue="Application.TestGUI_3" />
+        <item itemvalue="Application.TestGUI_2" />
+        <item itemvalue="Application.TestGUI_1" />
+        <item itemvalue="Application.TestThread_1" />
+        <item itemvalue="Application.Test_3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -340,83 +395,81 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4e6eea03-f099-4170-943b-b98eadd7837d" name="Default Changelist" comment="" />
-      <created>1585489212577</created>
+      <changelist id="c0d5a2c0-216c-4aea-bc59-f33d21c38413" name="Default Changelist" comment="" />
+      <created>1581937785549</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585489212577</updated>
-      <workItem from="1585489215499" duration="1133000" />
-      <workItem from="1585997553940" duration="536000" />
-      <workItem from="1585998112378" duration="542000" />
-      <workItem from="1586069087969" duration="6450000" />
-      <workItem from="1586157282858" duration="5067000" />
-      <workItem from="1586266565549" duration="1376000" />
-      <workItem from="1586334226793" duration="3067000" />
-      <workItem from="1586404470009" duration="3027000" />
-      <workItem from="1586417004804" duration="10183000" />
-      <workItem from="1586485804430" duration="12591000" />
-      <workItem from="1586844438410" duration="15462000" />
-      <workItem from="1586935517092" duration="9161000" />
-      <workItem from="1587018814699" duration="13240000" />
-      <workItem from="1587103502373" duration="10185000" />
+      <updated>1581937785549</updated>
+      <workItem from="1581937789043" duration="6306000" />
+      <workItem from="1582022557998" duration="9007000" />
+      <workItem from="1582271140269" duration="4067000" />
+      <workItem from="1582370082833" duration="4806000" />
+      <workItem from="1582525471412" duration="12807000" />
+      <workItem from="1582626075664" duration="3441000" />
+      <workItem from="1582708806566" duration="1966000" />
+      <workItem from="1582803354675" duration="8659000" />
+      <workItem from="1582951339220" duration="8715000" />
+      <workItem from="1583048116418" duration="8214000" />
+      <workItem from="1583401119984" duration="5531000" />
+      <workItem from="1583584380436" duration="1238000" />
+      <workItem from="1583657986460" duration="6259000" />
+      <workItem from="1583755789692" duration="1603000" />
+      <workItem from="1583840376878" duration="1633000" />
+      <workItem from="1583931460188" duration="1946000" />
+      <workItem from="1584015637339" duration="1082000" />
+      <workItem from="1584016739842" duration="228000" />
+      <workItem from="1584016989549" duration="947000" />
+      <workItem from="1584266570197" duration="4789000" />
+      <workItem from="1584535048886" duration="108000" />
+      <workItem from="1584535172078" duration="130000" />
+      <workItem from="1584535316385" duration="557000" />
+      <workItem from="1585145385972" duration="1143000" />
+      <workItem from="1585487588236" duration="2210000" />
+      <workItem from="1585972002574" duration="11826000" />
+      <workItem from="1586691961063" duration="1017000" />
     </task>
-    <task id="LOCAL-00001" summary="JavaSE基础">
-      <created>1585489518880</created>
+    <task id="LOCAL-00001" summary="test">
+      <created>1585488392740</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1585489518880</updated>
+      <updated>1585488392740</updated>
     </task>
-    <task id="LOCAL-00002" summary="JavaSE基础">
-      <created>1585490177341</created>
+    <task id="LOCAL-00002" summary="test">
+      <created>1585488976905</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1585490177341</updated>
+      <updated>1585488976905</updated>
     </task>
-    <task id="LOCAL-00003" summary="JavaSE基础">
-      <created>1585997600552</created>
+    <task id="LOCAL-00003" summary="test">
+      <created>1585996942473</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1585997600552</updated>
+      <updated>1585996942473</updated>
     </task>
-    <task id="LOCAL-00004" summary="JavaSE基础">
-      <created>1585997903860</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1585997903860</updated>
-    </task>
-    <task id="LOCAL-00005" summary="JavaSE基础">
-      <created>1585998140452</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1585998140452</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103882000" />
+    <option name="totallyTimeSpent" value="127456000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2446352" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12966916" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Project Explorer" order="7" />
-      <window_info id="Job Explorer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32985386" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19361702" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39957035" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19832985" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -425,19 +478,50 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3287234" />
-      <window_info anchor="bottom" id="Console" order="13" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32881" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32977587" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2950907" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19832985" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32985386" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32881" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32977587" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -453,158 +537,317 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="JavaSE基础" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaSE基础" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_3/Test1.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_1/TestGenerictiy_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="49" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
+        <state relative-caret-position="714">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="4" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_1/TestGenerictiy_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_2/HeroStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.0.8-bin.jar!/com/mysql/jdbc/ResultSet.class">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_2/MyStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="2998" selection-start-line="2998" selection-end-line="2998" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_7/TestJDBC_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="23" column="34" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="23" selection-end-column="34" />
+        <state relative-caret-position="462">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_7/TestJDBC_2.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_3/TestGenecirtiy_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="546">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_6/Test1.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_3/TestGenecirtiy_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_3/TestJDBC_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="123" selection-start-line="13" selection-start-column="123" selection-end-line="13" selection-end-column="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_5/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_5/TestJDBC_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="123" selection-start-line="20" selection-start-column="123" selection-end-line="20" selection-end-column="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_5/TestJDBC_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="123" selection-start-line="13" selection-start-column="123" selection-end-line="13" selection-end-column="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_7/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="12" column="115" selection-start-line="11" selection-start-column="12" selection-end-line="12" selection-end-column="115" />
+        <state relative-caret-position="420">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="6" selection-end-line="20" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_8/Test1.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_3/TestGenecirtiy_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_4/Test_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="4" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/genericity/generictiy_4/ADHero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_6/TestThread_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_6/TestThread_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_6/TestThread_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_1/TestThread_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_2/TestThread_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_6/ThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_1/TestThread_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="40" selection-start-line="10" selection-start-column="8" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_5/Test_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_8/Hero.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_4/Test_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_2/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_2/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_1/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_7/TestThread_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
           <folding>
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_8/Hero.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_3/Hero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="-210">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Test_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding>
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#672#673#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#836#837#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_9/Hero.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_9/HeroDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_7/TestThread_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="724">
+          <caret line="89" column="5" lean-forward="true" selection-start-line="83" selection-start-column="4" selection-end-line="89" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_8/TestJDBC_1.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_7/TestThread_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" lean-forward="true" selection-start-column="36" selection-end-column="36" />
+        <state relative-caret-position="84">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_9/TestJDBC_1.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Hero.java" />
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_3/Test_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="50" column="4" selection-start-line="48" selection-start-column="15" selection-end-line="50" selection-end-column="4" />
+        <state relative-caret-position="1197">
+          <caret line="63" column="19" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Test_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1533">
+          <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_4/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/test_4/Test_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/test/Test_6/Test_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="e#430#641#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#779#954#0" expanded="true" />
+            <element signature="e#953#954#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_8/TestThread_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+          <folding>
+            <element signature="e#412#518#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#961#1109#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_1/TestThread_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="2" selection-start-line="2" selection-end-line="24" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20433">
+          <caret line="973" column="10" selection-start-line="973" selection-start-column="10" selection-end-line="973" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_3/TestThread_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_3/TestThread_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -613,313 +856,97 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_3/TestThread_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
+        <state relative-caret-position="434">
+          <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_1/TestThread_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="2" selection-start-line="2" selection-end-line="32" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_3/TestThread_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_10/ConnectionPool.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_2/TestThread_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="483">
+          <caret line="23" column="2" selection-start-line="2" selection-end-line="23" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_3/TestThread_2.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_1/Hero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_3/TestThread_1.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_2/TestThread_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/jdbc_10/TestJDBC_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="75" lean-forward="true" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
-          <folding>
-            <element signature="e#317#787#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_9/ConnectionPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="33" column="16" selection-start-line="31" selection-start-column="31" selection-end-line="33" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/jdbc/test/test_9/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="786">
-          <caret line="125" selection-start-line="125" selection-end-line="125" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="651">
+          <caret line="31" column="2" selection-start-line="2" selection-end-line="31" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_1/TestGUI_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="147">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_1/Test_1.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_2/TestThread_4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#326#674#0" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="714">
+          <caret line="34" column="2" selection-start-line="2" selection-end-line="34" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_4.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/thread/thread_2/TestThread_5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="483">
+          <caret line="23" column="2" selection-start-line="2" selection-end-line="23" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_3.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_6/TestGUI_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="24" column="88" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="88" />
+        <state relative-caret-position="819">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_91/src.zip!/java/awt/event/MouseAdapter.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_6/TestGUI_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+        <state relative-caret-position="504">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_2/Test_2.java">
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_6/TestGUI_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="462">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_6/TestGUI_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="65" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_2/Test_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_3/TestGUI_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="36" column="57" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_3/Test_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_2/TestGUI_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="36" column="57" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#853#854#0" expanded="true" />
-            <element signature="e#904#905#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_4/TestGUI_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_4/TestGUI_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_4/TestGUI_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/test/test_4/Test_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_4/TestGUI_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_4/TestGUI_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="12" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="14" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_MiddleRank/gui/gui_5/TestGUI_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -927,71 +954,12 @@
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8.0_91</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>JavaSE</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
+                <option value="0.14084508" />
               </list>
             </option>
           </splitter-proportions>
