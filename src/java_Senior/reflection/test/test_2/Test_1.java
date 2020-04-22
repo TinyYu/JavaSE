@@ -8,6 +8,8 @@ import java.io.IOException;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Test_1 {
     public static void main(String[] args) {
@@ -18,18 +20,22 @@ public class Test_1 {
         try {
             fr = new FileReader(f);
             br = new BufferedReader(fr);
+            List<String> list = new ArrayList<>();
             while (true){
                 String line = br.readLine();
                 if (line == null)
                     break;
-                Hero hero = getHero(line);
-                if (hero instanceof ADHero){
-                    ((ADHero) hero).magicAttack();
-                } else if (hero instanceof APHero){
-                    ((APHero) hero).magicAttack();
-                }
+                list.add(line);
             }
-        } catch (IOException e) {
+            Hero hero1 = getHero(list.get(0));
+            setName(hero1,list.get(1));
+
+            Hero hero2 = getHero(list.get(2));
+            setName(hero2,list.get(3));
+
+            Method m = hero1.getClass().getMethod("attackHero", Hero.class);
+            m.invoke(hero1,hero2);
+        } catch (IOException | NoSuchMethodException | IllegalAccessException | InvocationTargetException e) {
             e.printStackTrace();
         }
     }
@@ -48,7 +54,7 @@ public class Test_1 {
         return hero;
     }
 
-    public static void att(Hero hero,Hero hero2,String name){
+    public static void setName(Hero hero,String name){
         try {
             Method m = hero.getClass().getMethod("setName", String.class);
             m.invoke(hero,name);
